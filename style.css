@@ -13,7 +13,6 @@
         margin-top: 20px;
     }
 .all{
-
 display: flex;
 height: 20VW;
 width:40px;
@@ -297,12 +296,14 @@ margin-top: -12.60vw;
   margin-top:1vw;
 }
 .pic8{
-  margin-left: 67vw;
-  margin-top: -12vw;
+  margin-left: 67.50vw;
+  margin-top: -13vw;
+}
+.pic8 img{
 }
 .pic9{
-  margin-left:71.50vw;
-  margin-top: -34vw;
+  margin-left:72.50vw;
+  margin-top: -39vw;
 }
 .pic9 img{
   margin-top: 3vw;
